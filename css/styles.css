@@ -71,6 +71,11 @@
     width: 550px;
 }
 
+.about-text p {
+    text-indent: 2em;
+    text-align: justify;
+}
+
 .main {
     width: 1130px;
     max-width: 95%;
