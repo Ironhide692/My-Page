@@ -11,12 +11,13 @@
     width: 100%;
     min-height: 100vh;
     padding: 2rem;
-    background-color: #fafafa;
+    background-color: #ffffff;
     overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
   }
+
   
   .form {
     width: 100%;
